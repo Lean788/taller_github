@@ -23,3 +23,5 @@ Como material complementario se le enseñará:
 + Ejemplos de Readme
 + Enlace a LinkedIn con ejemplos de Buenas Prácticas para hacer *commit*s
 + Enlace a Cheatsheets
+
+## añadido durante el taller.
